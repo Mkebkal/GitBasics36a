@@ -26,4 +26,3 @@ void main()
 	Sort(A, ROWS, COLS);
 	Print(A, ROWS, COLS);
 }
-
